@@ -24,7 +24,7 @@ namespace ApexDemo
 
             bool actual_result = true;
 
-            Assert.AreEqual(expected_result, actual_result, "Test passed   successfully 2nd time");
+            Assert.AreEqual(expected_result, actual_result, "Test passed   successfully 2nd time ok");
         
 }
     }
