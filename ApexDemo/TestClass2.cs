@@ -9,7 +9,7 @@ namespace ApexDemo
     {
         public string GetNames(string abc)
         {
-            return "Welcome To e" + abc;
+            return "Welcome To LearningMate.com" + abc;
         }
     }
 }
