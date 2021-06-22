@@ -7,5 +7,9 @@ namespace ApexDemo
 {
     public class TestClass2
     {
+        public string GetNames(string abc)
+        {
+            return "Welcome" + abc;
+        }
     }
 }
