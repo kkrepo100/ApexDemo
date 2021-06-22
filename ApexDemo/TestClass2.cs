@@ -11,5 +11,9 @@ namespace ApexDemo
         {
             return "Welcome To LearningMate.com" + abc;
         }
+        public string GetWelcome(string UserName)
+        {
+            return "Welcome To Company" + UserName;
+        }
     }
 }
