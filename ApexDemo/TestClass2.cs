@@ -9,7 +9,7 @@ namespace ApexDemo
     {
         public string GetNames(string abc)
         {
-            return "Welcome To  Employee LearningMate" + abc;
+            return "Welcome To   LearningMate" + abc;
         }
         public string GetWelcome(string UserName)
         {
