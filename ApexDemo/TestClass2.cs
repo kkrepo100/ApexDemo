@@ -9,11 +9,11 @@ namespace ApexDemo
     {
         public string GetNames(string abc)
         {
-            return "Welcome To LearningMate.com" + abc;
+            return "Welcome To LearningMate Employee" + abc;
         }
         public string GetWelcome(string UserName)
         {
-            return "Welcome To Company" + UserName;
+            return "Welcome To LearningMate .net group" + UserName;
         }
     }
 }
